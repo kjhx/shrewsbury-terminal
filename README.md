@@ -8,7 +8,7 @@ This is a profile (color scheme + some other options) for the macOS Terminal. It
 </center>
 
 ## Profile
-The preset typeface for this profile is [Hack Nerd Font Complete](https://github.com/ryanoasis/nerd-fonts/tree/v2.1.0/patched-fonts/Hack), a typeface designed for source code that has been patched to include thousands of glyphs from popular iconic fonts.
+The preset typeface for this profile is [Hack Nerd Font Complete](hack-nerd-font), a typeface designed for source code that has been patched to include thousands of glyphs from popular iconic fonts.
 
 The colors, in hex, are:
 |          |Black  |Red    |Green  |Yellow |Blue   |Magenta|Cyan   |White  |
@@ -18,7 +18,9 @@ The colors, in hex, are:
 
 ## Usage
 1. [Download the latest profile](https://raw.githubusercontent.com/kjhx/shrewsbury-terminal/master/Shrewsbury.terminal).
-2. Optionally, [download the latest version of the preset font](https://github.com/ryanoasis/nerd-fonts/tree/v2.1.0/patched-fonts/Hack) and install it.
+2. Optionally, [download the latest version of the preset font](hack-nerd-font) and install it.
 3. Open up Terminal, go to **Preferences**, then **Profiles**.
 4. In the bottom left, click the settings cog and select **Import...** before selecting the downloaded file and opening it.
 5. Lastly, set it as your default by selecting the new profile and clicking the **Default** button.
+
+[hack-nerd-font]: https://github.com/ryanoasis/nerd-fonts/tree/v2.1.0/patched-fonts/Hack
