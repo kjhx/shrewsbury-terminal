@@ -2,6 +2,11 @@
 
 This is a profile (color scheme + some other options) for the macOS Terminal. It's based off of the system colors outlined in Apple's [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/color/). That said, it fits in well with the current macOS dark mode.
 
+## Screenshot
+<center>
+    <img src="screenshot.png" />
+</center>
+
 ## Usage
 1. Download this repo.
 2. Open up Terminal, go to **Preferences**, then **Profiles**.
