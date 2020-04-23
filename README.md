@@ -17,7 +17,8 @@ The colors, in hex, are:
 |**Bright**|#8E8E93|#FF453A|#30D158|#FFD60A|#0A84FF|#BF5AF2|#64D2FF|#FFFFFF|
 
 ## Usage
-1. Download this repo.
-2. Open up Terminal, go to **Preferences**, then **Profiles**.
-3. In the bottom left, click the settings cog and select **Import...**. Navigate to the download file and open it.
-4. Lastly, set it as your default by selecting the new profile and clicking the **Default** button.
+1. [Download the latest profile](https://raw.githubusercontent.com/kjhx/shrewsbury-terminal/master/Shrewsbury.terminal).
+2. Optionally, [download the latest version of the preset font](https://github.com/ryanoasis/nerd-fonts/tree/v2.1.0/patched-fonts/Hack) and install it.
+3. Open up Terminal, go to **Preferences**, then **Profiles**.
+4. In the bottom left, click the settings cog and select **Import...** before selecting the downloaded file and opening it.
+5. Lastly, set it as your default by selecting the new profile and clicking the **Default** button.
