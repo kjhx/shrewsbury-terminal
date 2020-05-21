@@ -1,6 +1,6 @@
 # ![shrewsbury-terminal](https://raw.githubusercontent.com/hugginsio/art/master/shrewsbury-terminal/repo-banner.png)
 
-This is a profile (color scheme + some other options) for the macOS Terminal. It's a dark theme based off of the default dark palette of system colors outlined in Apple's [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/color/). That said, it fits in well with the dark mode that comes in macOS.
+This is a profile (color scheme + some other options) for both the macOS Terminal and iTerm2. It's a dark theme based off of the default dark palette of system colors outlined in Apple's [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/color/). That said, it fits right in alongside the dark mode that comes in macOS.
 
 ## Screenshot
 <center>
@@ -18,11 +18,18 @@ The differences between this and the basic profile (besides color) are:
 * Close on exit by default
 * Option as meta key
 
-## Usage
-1. [Download the latest profile](https://raw.githubusercontent.com/kjhx/shrewsbury-terminal/master/Shrewsbury.terminal).
+## Usage (Terminal)
+1. [Download the latest profile for Terminal](https://raw.githubusercontent.com/kjhx/shrewsbury-terminal/master/Shrewsbury.terminal).
 2. Optionally, [download the latest version of the preset font](hack-nerd-font) and install it.
 3. Open up Terminal, go to **Preferences**, then **Profiles**.
 4. In the bottom left, click the settings cog and select **Import...** before selecting the downloaded file and opening it.
 5. Lastly, set it as your default by selecting the new profile and clicking the **Default** button.
+
+## Usage (iTerm2)
+1. [Download the latest profile for iTerm2](https://raw.githubusercontent.com/kjhx/shrewsbury-terminal/master/Shrewsbury-iTerm2.json).
+2. Optionally, [download the latest version of the preset font](hack-nerd-font) and install it.
+3. Open up iTerm2, go to **Preferences**, then **Profiles**.
+4. In the bottom left, click on **Other Actions...** and select **Import JSON Profiles...** before selecting the downloaded file and opening it.
+5. Lastly, set it as your default by selecting the new profile, clicking on **Other Actions...**, and selecting **Set as Default**.
 
 [hack-nerd-font]: https://github.com/ryanoasis/nerd-fonts/tree/v2.1.0/patched-fonts/Hack
