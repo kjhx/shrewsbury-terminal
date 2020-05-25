@@ -7,7 +7,7 @@ This is a profile (color scheme + some other options) for both the macOS Termina
     <img src="screenshot.png" />
 </center>
 
-## Profile
+## Terminal.app Profile
 The differences between this and the basic profile (besides color) are:
 * The preset typeface for this profile is [Hack Nerd Font Complete](hack-nerd-font), a typeface designed for source code that has been patched to include thousands of glyphs from popular iconic fonts.
 * Pasted newlines do not trigger a carriage return
@@ -18,7 +18,7 @@ The differences between this and the basic profile (besides color) are:
 * Close on exit by default
 * Option as meta key
 
-## Usage (Terminal)
+## Usage (Terminal.app)
 1. [Download the latest profile for Terminal](https://raw.githubusercontent.com/kjhx/shrewsbury-terminal/master/Shrewsbury.terminal).
 2. Optionally, [download the latest version of the preset font](hack-nerd-font) and install it.
 3. Open up Terminal, go to **Preferences**, then **Profiles**.
@@ -26,10 +26,9 @@ The differences between this and the basic profile (besides color) are:
 5. Lastly, set it as your default by selecting the new profile and clicking the **Default** button.
 
 ## Usage (iTerm2)
-1. [Download the latest profile for iTerm2](https://raw.githubusercontent.com/kjhx/shrewsbury-terminal/master/Shrewsbury-iTerm2.json).
-2. Optionally, [download the latest version of the preset font](hack-nerd-font) and install it.
-3. Open up iTerm2, go to **Preferences**, then **Profiles**.
-4. In the bottom left, click on **Other Actions...** and select **Import JSON Profiles...** before selecting the downloaded file and opening it.
-5. Lastly, set it as your default by selecting the new profile, clicking on **Other Actions...**, and selecting **Set as Default**.
+1. [Download the latest color profile for iTerm2](https://raw.githubusercontent.com/kjhx/shrewsbury-terminal/master/Shrewsbury.itermcolors).
+2. Open up iTerm2, go to **Preferences**, then **Profiles**.
+3. Navigate to the **Colors** tab.
+4. In the bottom right, click on **Color Presets...** and select **Import...** before selecting the downloaded file and opening it.
 
 [hack-nerd-font]: https://github.com/ryanoasis/nerd-fonts/tree/v2.1.0/patched-fonts/Hack
