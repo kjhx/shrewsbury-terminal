@@ -1,4 +1,4 @@
-# ![shrewsbury-terminal](https://raw.githubusercontent.com/hugginsio/art/master/shrewsbury-terminal/repo-banner.png)
+# ![shrewsbury-terminal](https://raw.githubusercontent.com/hugginsio/assets/master/shrewsbury-terminal/repo-banner.png)
 
 This is a profile (or colorprofile) for both the macOS Terminal and iTerm2. It's a dark theme based off of the default dark palette of system colors outlined in Apple's [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/color/). That said, it fits right in alongside the dark mode that comes in macOS.
 
